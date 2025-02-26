@@ -26,6 +26,9 @@ To get started with Docmost, please refer to our [documentation](https://docmost
 - Search
 - File attachment
 
+## todo
+- [ ] Add support for AI with https://sdk.vercel.ai/docs/introduction
+
 #### Screenshots
 <p align="center">
 <img alt="home" src="https://docmost.com/screenshots/home.png" width="70%">
